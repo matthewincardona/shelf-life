@@ -1,0 +1,128 @@
+{
+  "Meats": [
+    {
+      "name": "Chicken",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Lamb",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Pork",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Turkey",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Beef",
+      "shelfLife": "14"
+    }
+  ],
+  "Vegetables": [
+    {
+      "name": "Lettuce",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Mushrooms",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Carrots",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Cabbage",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Peppers",
+      "shelfLife": "21"
+    },
+    {
+      "name": "Broccoli",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Cauliflower",
+      "shelfLife": "14"
+    }
+  ],
+  "Fruits": [
+    {
+      "name": "Apples",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Pears",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Blueberries",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Raspberries",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Bananas",
+      "shelfLife": "21"
+    },
+    {
+      "name": "Peaches",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Avacados",
+      "shelfLife": "14"
+    }
+  ],
+  "Fresh Seafood": [
+    {
+      "name": "Clams, Osyters, Scallops",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Shrimp",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Fish",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Crabs",
+      "shelfLife": "21"
+    }
+  ],
+  "Dairy": [
+    {
+      "name": "Milk",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Heavy Cream",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Sour Cream",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Yogurt",
+      "shelfLife": "14"
+    },
+    {
+      "name": "Fresh Cheese",
+      "shelfLife": "21"
+    },
+    {
+      "name": "Shredded/Block Cheese",
+      "shelfLife": "21"
+    }
+  ]
+}
